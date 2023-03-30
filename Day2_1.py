@@ -1,12 +1,12 @@
 # String
 print("hello"[0])
 
-#Integer
-print(123+345)
+# Integer
+print(123 + 345)
 
-#Float
+# Float
 3.14159
 
-#Boolean
+# Boolean
 True
 False
