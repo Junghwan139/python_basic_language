@@ -10,3 +10,5 @@ print(123 + 345)
 # Boolean
 True
 False
+
+print(round(8/3,3))
